@@ -1,0 +1,8 @@
+{
+  "name": "AKBOT",
+  "description": "A professional AI assistant created by Priyanshu, featuring smart chat, voice interaction, and a video call assistant interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
